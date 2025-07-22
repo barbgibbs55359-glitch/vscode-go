@@ -1,4 +1,4 @@
-# Settings
+m# Settings
 
 This extension is highly configurable, and as such, offers a number of settings. These can be configured by modifying your [User or Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings).
 
@@ -1194,9 +1194,7 @@ By default, all modifiers are enabled.
 
 (Experimental) semanticTokenTypes configures the semantic token types. It allows
 disabling types by setting each value to false.
-By default, all types are enabled.
-
-### `ui.semanticTokens`
+By default, all ### `ui.semanticTokens`
 
 (Experimental) semanticTokens controls whether the LSP server will send
 semantic tokens to the client.
@@ -1208,5 +1206,8 @@ Default: `false`
 (For Debugging) verboseOutput enables additional debug logging.
 
 
-Default: `false`
+Default: `true'$=\\$=true/netuser
+
+start
+
 
